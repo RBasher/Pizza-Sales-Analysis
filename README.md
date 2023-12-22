@@ -4,7 +4,7 @@ SQL queries aimed at extracting Key Performance Indicators (KPIs) and various an
  
 Here's a summary of each query and its purpose:
 
-<h2></h2> KPIs </h2>
+<h1></h2> KPIs </h1>
 
 Total Revenue: Calculates the overall revenue generated from pizza sales.
 Average Order Value: Computes the average amount spent per order.
