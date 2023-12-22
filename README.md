@@ -1,4 +1,4 @@
-#Introduction
+#Introduction#
 
 SQL queries aimed at extracting Key Performance Indicators (KPIs) and various analytics from a pizza sales database. Each query serves a specific purpose, whether to analyze revenue, sales trends, category-wise performance, or top/bottom performers based on different metrics.
  
